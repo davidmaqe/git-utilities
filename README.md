@@ -1,4 +1,4 @@
-Git and GitHub for Developers and Testers
+Git and GitHub for Developers and Testers!
 
 This GitHub repository contains files used by and explained in Wilson Mar's
 Git and GitHub course.
@@ -41,3 +41,5 @@ Additionally, diagrams (animated step-by-step in PowerPoint) have been prepared 
 Enjoy!
 
 (Changed for class)
+
+DM
